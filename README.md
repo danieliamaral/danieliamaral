@@ -13,15 +13,6 @@ Hi! I´m Danieli, and welcome to my profile! <img src="https://media.giphy.com/m
  <div align="center">
   
   <a href="https://www.linkedin.com/in/danieliamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  <hr>
-
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=danieliamaral&left_color=green&right_color=red)
-
- 
- <hr>
- 
- <div>
 <div align="center">
   <a href="https://github.com/danieliamaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieliamaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
